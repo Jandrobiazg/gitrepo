@@ -2,7 +2,7 @@
 
 Repozytorium z notatkami, skryptami i kodami żródłowymi
 
-##Polecenia Gir-a:
+##Polecenia Git-a:
 
 1) git status - pokazuje zmiany w repo.
 2) git pull - ściąga ewemtualne zmiany z repo. zdal.
